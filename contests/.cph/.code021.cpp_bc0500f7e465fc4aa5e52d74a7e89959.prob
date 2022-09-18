@@ -1,0 +1,1 @@
+{"name":"Local: code021","url":"d:\\Khagesh\\vscode\\COMPETITIVE_PROGRAMMING\\contests\\code021.cpp","tests":[{"id":1646844432301,"input":"2\n8 6\n4 1 6 1 6 5 6 8\n2 1\n3 5","output":"6\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Khagesh\\vscode\\COMPETITIVE_PROGRAMMING\\contests\\code021.cpp","group":"local","local":true}
